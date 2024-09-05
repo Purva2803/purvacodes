@@ -1,0 +1,8 @@
+/* App.css - custom styles */
+.bg-light-pattern {
+  background-color: #f7e6ff; /* Light lavender */
+  background-image: url('./assets/flower.jpg'); /* Add your floral image */
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
